@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name hackFeedApp.controller:AboutCtrl
+ * @name hashFeedApp.controller:AboutCtrl
  * @description
  * # AboutCtrl
- * Controller of the hackFeedApp
+ * Controller of the hashFeedApp
  */
-angular.module('hackFeedApp')
+angular.module('hashFeedApp')
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

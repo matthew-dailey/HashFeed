@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name hackFeedApp
+ * @name hashFeedApp
  * @description
- * # hackFeedApp
+ * # hashFeedApp
  *
  * Main module of the application.
  */
 angular
-  .module('hackFeedApp', [
+  .module('hashFeedApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
